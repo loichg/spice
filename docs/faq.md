@@ -1,4 +1,4 @@
-# FAQ - SnapCaps
+# Q&A - SnapCaps
 
 ## 1. What is SnapCaps?
 SnapCaps is an innovative food-tech company that offers biodegradable seasoning capsules. Our capsules provide a precise, waste-free, and eco-friendly seasoning solution.
