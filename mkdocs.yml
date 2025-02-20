@@ -2,9 +2,9 @@ site_name: Spice Caps
 nav:
   - Welcome: index.md
   - Our product : product.md
-  - Recettes : recette.md
-  - Engagement : engagement.md
-  - FAQ : faq.md
+  - Recipes : recette.md
+  - Avantages : avantage.md
+  - Q&A : faq.md
   - Contact : contact.md
 
 theme: material
