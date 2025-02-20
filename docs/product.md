@@ -1,4 +1,4 @@
-# Products - SnapCaps
+# Products - Spice Caps
 
 ## SnapCaps - The Future of Seasoning
 SnapCaps offers a revolutionary way to season your meals with precision, convenience, and sustainability. Our biodegradable seasoning capsules ensure a mess-free and eco-friendly cooking experience.

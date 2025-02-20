@@ -1,11 +1,11 @@
-# Welcome to SnapCaps 
+# Welcome to Spice Caps 
 
 ## Revolutionizing Seasoning, One Cap at a Time
 SnapCaps brings you an innovative, eco-friendly way to season your meals with precision and convenience. Our biodegradable seasoning capsules eliminate mess, reduce waste, and enhance your cooking experience effortlessly.
 
 ---
 
-## Why Choose SnapCaps?
+## Why Choose Spice Caps?
 **Sustainable:** 100% biodegradable and compostable capsules 
 **Convenient:** Pre-measured portions for perfect seasoning every time 
 **Mess-Free:** No spills, no waste, just great flavor 
