@@ -1,8 +1,11 @@
-site_name: Snap Spice
+site_name: Spice Caps
 nav:
   - Welcome: index.md
   - Our product : product.md
-  - Who are we? : presentation.md
+  - Recettes : recette.md
+  - Engagement : engagement.md
+  - FAQ : faq.md
+  - Contact : contact.md
 
 theme: material
 
