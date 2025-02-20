@@ -1,0 +1,9 @@
+site_name: Snap Spice
+nav:
+  - Welcome: index.md
+  - Our product : product.md
+  - Who are we? : presentation.md
+
+theme: material
+
+
