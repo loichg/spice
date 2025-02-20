@@ -5,7 +5,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ---
 
-## 🥩 Meat Dishes
+## Meat Dishes
 
 ### 1. Lemon Herb Grilled Chicken
 **Ingredients:**
@@ -39,7 +39,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ---
 
-## 🥦 Vegetable Dishes
+## Vegetable Dishes
 
 ### 3. Roasted Garlic & Herb Vegetables
 **Ingredients:**
@@ -68,7 +68,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ---
 
-## 🍝 Pasta & Grains
+## Pasta & Grains
 
 ### 5. Quick Garlic Butter Pasta
 **Ingredients:**
@@ -100,7 +100,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ---
 
-## 🍲 Soups & Broths
+## Soups & Broths
 
 ### 7. Spicy Tomato Soup
 **Ingredients:**
