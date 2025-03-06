@@ -7,7 +7,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ## Meat Dishes
 
-### 1. Lemon Herb Grilled Chicken
+### Lemon Herb Grilled Chicken
 **Ingredients:**
 - 2 SnapCaps simple seasoning (Lemon & Herb)
 - 2 chicken breasts
@@ -21,7 +21,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 3. Grill on medium heat for 5-7 minutes per side until fully cooked.
 4. Serve with fresh salad or steamed vegetables.
 
-### 2. Spiced Beef Stir-Fry
+### Spiced Beef Stir-Fry
 **Ingredients:**
 - 1 SnapCaps simple seasoning (Spicy Blend)
 - 300g beef strips
@@ -41,7 +41,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ## Vegetable Dishes
 
-### 3. Roasted Garlic & Herb Vegetables
+### Roasted Garlic & Herb Vegetables
 **Ingredients:**
 - 1 SnapCaps simple seasoning (Garlic & Herb)
 - 2 cups mixed vegetables (carrots, zucchini, bell peppers)
@@ -53,7 +53,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 3. Spread on a baking sheet and roast for 20 minutes.
 4. Serve warm as a side dish.
 
-### 4. Spicy Sautéed Spinach
+### Spicy Sautéed Spinach
 **Ingredients:**
 - 1 SnapCaps simple seasoning (Chili & Garlic)
 - 2 cups fresh spinach
@@ -70,7 +70,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ## Pasta & Grains
 
-### 5. Quick Garlic Butter Pasta
+### Quick Garlic Butter Pasta
 **Ingredients:**
 - 1 SnapCaps simple seasoning (Garlic & Herb)
 - 200g cooked pasta
@@ -83,7 +83,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 3. Toss in the cooked pasta and mix well.
 4. Sprinkle parmesan cheese and serve warm.
 
-### 6. Spiced Quinoa Salad
+### Spiced Quinoa Salad
 **Ingredients:**
 - 1 SnapCaps simple seasoning (Cumin & Paprika)
 - 1 cup cooked quinoa
@@ -102,7 +102,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ## Soups & Broths
 
-### 7. Spicy Tomato Soup
+### Spicy Tomato Soup
 **Ingredients:**
 - 1 SnapCaps diluting seasoning (Chili Blend)
 - 2 cups tomato puree
@@ -117,7 +117,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 4. Season with salt and pepper to taste.
 5. Serve hot with crusty bread.
 
-### 8. Aromatic Miso Soup
+### Aromatic Miso Soup
 **Ingredients:**
 - 1 SnapCaps diluting seasoning (Miso & Seaweed)
 - 2 cups water
