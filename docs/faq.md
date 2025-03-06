@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Q&A - SnapCaps
 
 ## 1. What is SnapCaps?

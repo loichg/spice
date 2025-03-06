@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Welcome to Spice Caps 
 
 ## Revolutionizing Seasoning, One Cap at a Time

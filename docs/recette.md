@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Recipes - SnapCaps
 
 ## Discover New Ways to Use SnapCaps

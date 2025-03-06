@@ -1,6 +1,6 @@
 site_name: Spice Caps
 nav:
-  - Welcome: index.md
+  - Spice Caps : index.md
   - Our product : product.md
   - Recipes : recette.md
   - Subscription : avantage.md

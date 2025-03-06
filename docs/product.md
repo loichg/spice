@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Products - Spice Caps
 
 ## SnapCaps - The Future of Seasoning
