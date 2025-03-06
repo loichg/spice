@@ -5,3 +5,13 @@
 .md-footer {
     display: none;
 }
+
+/* Masquer la navigation à gauche */
+.md-sidebar--primary {
+    display: none;
+}
+
+/* Masquer la navigation à droite */
+.md-sidebar--secondary {
+    display: none;
+}
