@@ -32,7 +32,7 @@ Perfect for gifting or personal use
 
 ---
 
-## Why Choose SnapCaps?
+## Why Choose Spice Caps?
 **Eco-Friendly:** 100% biodegradable and compostable capsules  
 **Mess-Free:** Pre-measured portions eliminate waste and spills  
 **Convenient:** Easy to use at home or on the go  
@@ -48,4 +48,4 @@ SnapCaps are available through:
 
 ---
 
-Get your SnapCaps today and transform the way you season your meals!
+Get your Spice Caps today and transform the way you season your meals!
