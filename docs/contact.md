@@ -10,7 +10,7 @@ We’d love to hear from you! Whether you have questions, feedback, or just want
 ## Contact Information
 
 - **Email**: contact@spicecaps.com  
-- **Phone**: +6 12 34 57 89 10
+- **Phone**: +6 12 34 57 89
 - **Address**:  
   Caps Unlimited  
   14 rue de l'innovation 

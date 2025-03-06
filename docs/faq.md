@@ -42,8 +42,8 @@ Our capsules are fully biodegradable and compostable, reducing plastic waste.
 
 ## 10. How can I contact customer support?
 For any questions or assistance, reach out to us via:
-- **Email**: support@spicecaps .com
-- **Phone**: +44 123 456 789
+- **Email**: support@spicecaps.com
+- **Phone**: +6 12 34 57 89
 - **Online form**: Available on our website.
 
 Do you have a question that isn't listed here? Contact us, and we'll be happy to help!
