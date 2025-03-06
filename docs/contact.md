@@ -21,7 +21,6 @@ We’d love to hear from you! Whether you have questions, feedback, or just want
 
 Prefer to send us a message directly? Use the form below, and we’ll get back to you as soon as possible.
 
-```html
 <form action="https://formspree.io/f/your-form-id" method="POST">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" required>

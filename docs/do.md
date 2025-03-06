@@ -27,7 +27,6 @@ Create your own pack of 10 SnapCaps by choosing from our wide range of flavors, 
 
 ## Create Your Pack
 
-```html
 <form action="https://formspree.io/f/your-form-id" method="POST">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" required>

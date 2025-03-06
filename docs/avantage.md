@@ -40,7 +40,6 @@ Discover new flavors every month with our Spice Caps subscription service! Recei
 
 ## Get Started Now!
 
-```html
 <form action="https://formspree.io/f/your-form-id" method="POST">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" required>
