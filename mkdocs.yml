@@ -2,8 +2,9 @@ site_name: Spice Caps
 nav:
   - Spice Caps : index.md
   - Our product : product.md
-  - Recipes : recette.md
+  - Do your own pack : do.md
   - Subscription : avantage.md
+  - Recipes : recette.md
   - Q&A : faq.md
   - Contact : contact.md
 

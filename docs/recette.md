@@ -3,10 +3,10 @@ hide:
   - toc
 ---
 
-# Recipes - SnapCaps
+# Recipes - Spice Caps 
 
-## Discover New Ways to Use SnapCaps
-SnapCaps make seasoning your dishes effortless and mess-free. Here are some creative ways to enhance your meals with our biodegradable seasoning capsules.
+## Discover New Ways to Use Spice Caps 
+Spice Caps  make seasoning your dishes effortless and mess-free. Here are some creative ways to enhance your meals with our biodegradable seasoning capsules.
 
 ---
 
@@ -48,19 +48,19 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ### Roasted Garlic & Herb Vegetables
 **Ingredients:**
-- 1 SnapCaps simple seasoning (Garlic & Herb)
+- 1 Spice Caps  simple seasoning (Garlic & Herb)
 - 2 cups mixed vegetables (carrots, zucchini, bell peppers)
 - 2 tbsp olive oil
 
 **Instructions:**
 1. Preheat oven to 200°C (400°F).
-2. Toss vegetables with olive oil and SnapCaps seasoning.
+2. Toss vegetables with olive oil and Spice Caps  seasoning.
 3. Spread on a baking sheet and roast for 20 minutes.
 4. Serve warm as a side dish.
 
 ### Spicy Sautéed Spinach
 **Ingredients:**
-- 1 SnapCaps simple seasoning (Chili & Garlic)
+- 1 Spice Caps  simple seasoning (Chili & Garlic)
 - 2 cups fresh spinach
 - 1 tbsp olive oil
 - 1 tsp lemon juice
@@ -68,7 +68,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 **Instructions:**
 1. Heat olive oil in a pan over medium heat.
 2. Add spinach and cook until wilted.
-3. Stir in SnapCaps seasoning and lemon juice.
+3. Stir in Spice Caps  seasoning and lemon juice.
 4. Serve as a flavorful side dish.
 
 ---
@@ -77,7 +77,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ### Quick Garlic Butter Pasta
 **Ingredients:**
-- 1 SnapCaps simple seasoning (Garlic & Herb)
+- 1 Spice Caps  simple seasoning (Garlic & Herb)
 - 200g cooked pasta
 - 2 tbsp butter
 - 1 tbsp parmesan cheese
@@ -90,7 +90,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ### Spiced Quinoa Salad
 **Ingredients:**
-- 1 SnapCaps simple seasoning (Cumin & Paprika)
+- 1 Spice Caps  simple seasoning (Cumin & Paprika)
 - 1 cup cooked quinoa
 - ½ cup cherry tomatoes, halved
 - ¼ cup cucumber, diced
@@ -109,7 +109,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ### Spicy Tomato Soup
 **Ingredients:**
-- 1 SnapCaps diluting seasoning (Chili Blend)
+- 1 Spice Caps  diluting seasoning (Chili Blend)
 - 2 cups tomato puree
 - 1 cup vegetable broth
 - 1 tbsp olive oil
@@ -124,7 +124,7 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 
 ### Aromatic Miso Soup
 **Ingredients:**
-- 1 SnapCaps diluting seasoning (Miso & Seaweed)
+- 1 Spice Caps diluting seasoning (Miso & Seaweed)
 - 2 cups water
 - ½ cup tofu, cubed
 - ¼ cup chopped green onions
@@ -138,4 +138,4 @@ SnapCaps make seasoning your dishes effortless and mess-free. Here are some crea
 ---
 
 ## More Recipes Coming Soon!
-Stay tuned as we continue to explore new and exciting ways to make your cooking easier and more delicious with SnapCaps!
+Stay tuned as we continue to explore new and exciting ways to make your cooking easier and more delicious with Spice Caps !
