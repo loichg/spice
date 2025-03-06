@@ -55,7 +55,7 @@ Discover new flavors every month with our Spice Caps subscription service! Recei
   </select>
 
   <label for="preferences">Flavor Preferences:</label>
-  <textarea id="preferences" name="preferences" rows="3" columns="20"></textarea>
+  <textarea id="preferences" name="preferences" rows="3" ></textarea>
 
   <button type="submit">Subscribe</button>
 </form>

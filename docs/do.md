@@ -5,7 +5,7 @@ hide:
 
 # Create Your Custom Pack
 
-Create your own pack of 10 SnapCaps by choosing from our wide range of flavors, rated from 1 to 5 points. Mix and match to suit your taste!
+Create your own pack of 10 Spice Caps by choosing from our wide range of flavors, rated from 1 to 5 points. Mix and match to suit your taste!
 
 ## How It Works
 
@@ -67,7 +67,7 @@ Create your own pack of 10 SnapCaps by choosing from our wide range of flavors, 
       .reduce((sum, option) => sum + parseInt(option.dataset.points), 0);
     totalPointsDisplay.textContent = totalPoints;
 
-    if (totalPoints <= 10) {
+    if (totalPoints <= 30) {
       submitButton.disabled = false;
     } else {
       submitButton.disabled = true;

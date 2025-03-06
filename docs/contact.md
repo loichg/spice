@@ -32,7 +32,7 @@ Prefer to send us a message directly? Use the form below, and we’ll get back t
   <input type="text" id="subject" name="subject" required>
 
   <label for="message">Message:</label>
-  <textarea id="message" name="message" rows="3" columns="20" required></textarea>
+  <textarea id="message" name="message" rows="3" required></textarea>
 
   <button type="submit">Send Message</button>
 </form>
