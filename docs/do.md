@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Create Your Custom Pack
 
 Create your own pack of 10 SnapCaps by choosing from our wide range of flavors, rated from 1 to 5 points. Mix and match to suit your taste!
