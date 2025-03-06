@@ -10,12 +10,12 @@ We’d love to hear from you! Whether you have questions, feedback, or just want
 ## Contact Information
 
 - **Email**: contact@spicecaps.com  
-- **Phone**: +44 123 456 7890  
+- **Phone**: +6 12 34 57 89 10
 - **Address**:  
-  Spice Caps Ltd.  
-  123 Flavor Street  
-  London, United Kingdom  
-  SW1A 1AA  
+  Caps Unlimited  
+  14 rue de l'innovation 
+  Paris, France 
+  75011 
 
 ## Contact Form
 
@@ -32,7 +32,7 @@ Prefer to send us a message directly? Use the form below, and we’ll get back t
   <input type="text" id="subject" name="subject" required>
 
   <label for="message">Message:</label>
-  <textarea id="message" name="message" rows="5" required></textarea>
+  <textarea id="message" name="message" rows="20" required></textarea>
 
   <button type="submit">Send Message</button>
 </form>
