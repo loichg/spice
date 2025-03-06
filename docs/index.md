@@ -29,7 +29,7 @@ Designed to dissolve in liquids like soups, sauces, or marinades. Customize the 
 ### Variety Packs  
 A curated selection of flavors to explore new tastes and elevate your meals.  
 
-[Browse Products](#product)  
+[Browse Products](#product.md)  
 
 ---
 
@@ -42,7 +42,7 @@ Never run out of your favorite spices! Our subscription service delivers a box o
 - **Flexible Plans**: Choose from monthly, quarterly, or annual subscriptions.  
 - **Customizable**: Tell us your preferences, and we’ll tailor your box to your taste.  
 
-[Subscribe Now](#avantage)  
+[Subscribe Now](#avantage.md)  
 
 ---
 
@@ -54,19 +54,19 @@ Mix and match your favorite flavors to create a custom pack of 10 Spice Caps. Ea
 2. Stay within the 10-point limit to keep the price affordable.  
 3. Place your order and receive your custom pack in just a few days!  
 
-[Create Your Pack](#do)  
+[Create Your Pack](#do.md)  
 
 ---
 
 ## Recipes & Inspiration
 Discover delicious ways to use Spice Caps in your cooking! From quick weeknight dinners to gourmet dishes, we’ve got you covered.  
-[Explore Recipes](#recette)  
+[Explore Recipes](#recette.md)  
 
 ---
 
 ## Get in Touch
 Have questions or feedback? We’d love to hear from you!  
-[Contact Us](#contact)  
+[Contact Us](#contact.md)  
 
 ---
 
