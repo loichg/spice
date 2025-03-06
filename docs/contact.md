@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Contact Us
 
 We’d love to hear from you! Whether you have questions, feedback, or just want to say hello, feel free to reach out to us using the details below.

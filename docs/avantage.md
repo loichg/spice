@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Spice Caps Subscription
 
 Discover new flavors every month with our Spice Caps subscription service! Receive a box of carefully curated seasonal capsules delivered straight to your door.
